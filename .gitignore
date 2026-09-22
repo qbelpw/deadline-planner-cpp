@@ -1,0 +1,6 @@
+/build/
+/data/*.json
+/data/*.tmp
+/exports/
+*.exe
+*.o
