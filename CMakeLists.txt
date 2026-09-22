@@ -66,6 +66,8 @@ if(WIN32)
         gdi32
         shell32
         user32
+        uxtheme
+        dwmapi
     )
 endif()
 
